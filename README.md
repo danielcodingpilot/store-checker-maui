@@ -2,6 +2,9 @@
 
 A .NET MAUI package that detects where the app was installed from.
 
+This project is a .NET MAUI port of the original Expo/React Native module:
+https://github.com/tttocklll/store_checker
+
 ## What it detects
 
 - Play Store
